@@ -22,11 +22,3 @@ Este é um sistema de caixa de mercado remoto desenvolvido em Python utilizando 
 3. Execute o arquivo `server.py` para iniciar o servidor.
 4. Execute o arquivo `client.py` para iniciar o cliente.
 5. Siga as instruções no terminal do cliente para listar produtos, selecionar itens e obter o total da compra.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, reportar problemas ou enviar pull requests para este projeto.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
