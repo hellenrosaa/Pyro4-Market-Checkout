@@ -19,6 +19,10 @@ Este é um sistema de caixa de mercado remoto desenvolvido em Python utilizando 
 
 1. Clone o repositório para o seu ambiente local.
 2. Certifique-se de ter o Python e a biblioteca Pyro instalados.
-3. Execute o arquivo `server.py` para iniciar o servidor.
-4. Execute o arquivo `client.py` para iniciar o cliente.
-5. Siga as instruções no terminal do cliente para listar produtos, selecionar itens e obter o total da compra.
+3. Inicie o Pyro4-ns em um terminal:
+    pyro4-ns
+4. Execute o arquivo `server.py` para iniciar o servidor.
+5. Execute o arquivo `client.py` para iniciar o cliente.
+6. Siga as instruções no terminal do cliente para listar produtos, selecionar itens e obter o total da compra.
+
+:)
