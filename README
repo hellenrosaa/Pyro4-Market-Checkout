@@ -1,0 +1,32 @@
+# Sistema de Caixa de Mercado Remoto
+
+Este é um sistema de caixa de mercado remoto desenvolvido em Python utilizando a tecnologia Python RMI (Remote Method Invocation) para comunicação cliente-servidor. O sistema permite que os clientes realizem compras em um supermercado virtual, consultando produtos disponíveis, selecionando itens para compra e recebendo o total da compra.
+
+## Funcionalidades
+
+- Listar produtos disponíveis para compra.
+- Selecionar itens para compra informando seus IDs.
+- Calcular o total da compra com base nos itens selecionados.
+- Fornecer uma interface de usuário simples e amigável.
+
+## Estrutura de Arquivos
+
+- `server.py`: Contém o código do servidor que gerencia os itens e as transações de compra.
+- `client.py`: Contém o código do cliente que interage com o servidor para realizar compras.
+- `items.csv`: Arquivo CSV que armazena os itens disponíveis para compra, contendo ID, nome e valor de cada item.
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local.
+2. Certifique-se de ter o Python e a biblioteca Pyro instalados.
+3. Execute o arquivo `server.py` para iniciar o servidor.
+4. Execute o arquivo `client.py` para iniciar o cliente.
+5. Siga as instruções no terminal do cliente para listar produtos, selecionar itens e obter o total da compra.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, reportar problemas ou enviar pull requests para este projeto.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
