@@ -1,6 +1,7 @@
-# Sistema de Caixa de Mercado Remoto
+Sistema de Caixa de Mercado Remoto
 
-Este é um sistema de caixa de mercado remoto desenvolvido em Python utilizando a tecnologia Python RMI (Remote Method Invocation) para comunicação cliente-servidor. O sistema permite que os clientes realizem compras em um supermercado virtual, consultando produtos disponíveis, selecionando itens para compra e recebendo o total da compra.
+Este é um sistema de caixa de mercado remoto desenvolvido em Python utilizando a tecnologia Python RMI (Remote Method Invocation) para comunicação cliente-servidor. 
+O sistema permite que os clientes realizem compras em um supermercado virtual, consultando produtos disponíveis, selecionando itens para compra e recebendo o total da compra.
 
 ## Funcionalidades
 
